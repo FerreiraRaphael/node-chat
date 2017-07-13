@@ -1,0 +1,14 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "description": "A chat using express and socket io",
+  "main": "index.js",
+  "author": "raphael ferreira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
